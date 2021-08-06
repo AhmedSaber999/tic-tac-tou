@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1528468984 source:c:\users\ahmed saber\desktop\tic tac toc\main.cpp
+	<iostream>
+	<windows.h>
+
+1577909625 source:d:\my projects\tic tac tou console app\main.cpp
+	<iostream>
+	<windows.h>
+
